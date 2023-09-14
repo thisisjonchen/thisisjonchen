@@ -5,7 +5,7 @@
 <p align="left">🌱 I’m currently learning DS&A</p>
 <p align="left">✨ Right now... I am working on a Spring + Spotify Web App</p>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,python,vscode,js,html" />
   </a>
